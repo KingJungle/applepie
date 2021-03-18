@@ -30,6 +30,7 @@ class ViewController: UIViewController {
     @IBOutlet var letterButtons: [UIButton]!
     
     
+    //hello
     var currentGame: Game!
     
     func updateUI(){
